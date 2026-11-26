@@ -11,6 +11,6 @@ A few projects:
 - [clas12-ftof-efficiency-gui](https://github.com/ZishaanM/clas12-ftof-efficiency-gui): CustomTkinter desktop app for plotting CLAS12 detector efficiency data
 - [ff-projection-analysis](https://github.com/ZishaanM/ff-projection-analysis): pandas analysis comparing ESPN fantasy football projections with actual points (still in progress)
 
-Reach me at [EMAIL] · LinkedIn: [LINKEDIN_URL] · Resume: [RESUME_URL]
+Reach me at [EMAIL] · [LinkedIn](https://www.linkedin.com/in/zmahmo)
 
 Thanks for stopping by!
