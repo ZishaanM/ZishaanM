@@ -1,10 +1,13 @@
 ## Hi, I'm Zishaan 👋
 
-Undergrad who likes tinkering with code and data. A few small projects:
+Analytics (B.A.) student at UC Berkeley, Department of IEOR.
+I'm interested in software, data, and quant internships.
 
-- [wharton-monte-carlo-allocator](https://github.com/ZishaanM/wharton-monte-carlo-allocator): a Monte Carlo simulation I used to pick a portfolio for the Wharton Investment Competition
-- [clas12-ftof-efficiency-gui](https://github.com/ZishaanM/clas12-ftof-efficiency-gui): a small desktop app for plotting CLAS12 detector efficiency data
-- [intraday-options-dashboard](https://github.com/ZishaanM/intraday-options-dashboard): a Streamlit dashboard that guesses a stock's closing price and shows option prices
-- [ff-projection-analysis](https://github.com/ZishaanM/ff-projection-analysis): comparing fantasy football projections with actual points (still in progress)
+A few projects:
+
+- [intraday-options-dashboard](https://github.com/ZishaanM/intraday-options-dashboard): a Streamlit dashboard that finds past trading days with similar intraday returns (nearest-neighbor similarity), uses them to estimate the day's close, and builds a Black-Scholes table of option prices by strike
+- [wharton-monte-carlo-allocator](https://github.com/ZishaanM/wharton-monte-carlo-allocator): Monte Carlo simulation with a grid search over portfolio weights, built for the Wharton Investment Competition
+- [clas12-ftof-efficiency-gui](https://github.com/ZishaanM/clas12-ftof-efficiency-gui): CustomTkinter desktop app for plotting CLAS12 detector efficiency data
+- [ff-projection-analysis](https://github.com/ZishaanM/ff-projection-analysis): pandas analysis comparing ESPN fantasy football projections with actual points (still in progress)
 
 Thanks for stopping by!
