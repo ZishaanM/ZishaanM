@@ -1,6 +1,7 @@
 ## Hi, I'm Zishaan 👋
 
-Analytics (B.A.) student at UC Berkeley, Department of IEOR.
+Analytics (B.A.) student at UC Berkeley, Department of IEOR, Class of [YEAR].
+
 I'm interested in software, data, and quant internships.
 
 A few projects:
@@ -9,5 +10,7 @@ A few projects:
 - [wharton-monte-carlo-allocator](https://github.com/ZishaanM/wharton-monte-carlo-allocator): Monte Carlo simulation with a grid search over portfolio weights, built for the Wharton Investment Competition
 - [clas12-ftof-efficiency-gui](https://github.com/ZishaanM/clas12-ftof-efficiency-gui): CustomTkinter desktop app for plotting CLAS12 detector efficiency data
 - [ff-projection-analysis](https://github.com/ZishaanM/ff-projection-analysis): pandas analysis comparing ESPN fantasy football projections with actual points (still in progress)
+
+Reach me at [EMAIL] · LinkedIn: [LINKEDIN_URL] · Resume: [RESUME_URL]
 
 Thanks for stopping by!
